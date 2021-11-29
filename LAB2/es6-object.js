@@ -2,7 +2,7 @@ let person = {
     firstname : "Suparat",
     lasname : "Urairam",
     age : 22,
-    sex : "male",
+    sex : "Female",
     fullname : function () {
         return this.firstname + " " + this.lasname
     },
@@ -29,7 +29,7 @@ console.log(firstname)
 // string
 const S1 = "Hello world !! "
 const S2 = "My name is: "
-const name1 = "Om"
+const name1 = "Suparat"
 
 let conCat = S1 + S2 + name1
 console.log(conCat)
