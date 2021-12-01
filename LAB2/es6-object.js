@@ -1,6 +1,6 @@
 let person = {
-    firstname : "Suparat",
-    lasname : "Urairam",
+    firstname : "Sumitta",
+    lasname : "Puriso",
     age : 22,
     sex : "Female",
     fullname : function () {
@@ -29,7 +29,7 @@ console.log(firstname)
 // string
 const S1 = "Hello world !! "
 const S2 = "My name is: "
-const name1 = "Suparat"
+const name1 = "Sumitta"
 
 let conCat = S1 + S2 + name1
 console.log(conCat)

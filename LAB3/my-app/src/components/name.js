@@ -1,8 +1,8 @@
 function Myname() {
     return (
         <div>
-            <div>Suparat Urairam</div>
-            <div>SID : 610112418049</div>
+            <div>Sumitta Puriso</div>
+            <div>SID : 610112418051</div>
         </div>
     )
 }
