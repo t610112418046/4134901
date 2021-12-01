@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ///////array
 const cars = ["Toyota", "Kubota", "Mazda"];
 const planes = [];
@@ -60,7 +59,6 @@ console.log(over15);
 function over15fn(value) {
     return value > 15;
 }
-=======
 ///////array
 const cars = ["Toyota", "Kubota", "Mazda"];
 const planes = [];
@@ -146,5 +144,5 @@ console.log(firstIndex);
 
 const alphabet = "ABCDEF";
 let arrAlph = Array.from(alphabet);
-console.log(arrAlph);
->>>>>>> e9d6393 (ok)
+console.log(arrAlph); 
+e9d6393 (ok)
